@@ -47,3 +47,5 @@ What is an autoencoder?
     - It makes sense that the convolutional autoencoder does best with the fashion dataset, since the convolutional model looks at small parts of the image and learns to apply it to the big picture
     - For the digit dataset, I would think the convolutional would also work better, but maybe because the recurrent is used more with numbers, it works better?
       - We could try more layers, more neurons, but we don't want to overfit the data, so it would depend on what the outputs do.
+
+**References**: Géron, A. (2023). Hands-on machine learning with scikit-learn, Keras, and tensorflow: Concepts, tools, and techniques to build Intelligent Systems. O’Reilly Media. 
