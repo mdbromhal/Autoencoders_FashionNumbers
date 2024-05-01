@@ -1,6 +1,8 @@
 # Autoencoders_FashionNumbers
 ABSTRACT: Autoencoders: Generating Fashion &amp; Numbers from MNIST datasets
 
+Source: https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/
+
 - Loads MNIST fashion and digits dataset
 - Stacked, Convolutional, and Recurrent Autoencoders to generate images from the partial, original fashion/digits images
 
